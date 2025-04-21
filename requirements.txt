@@ -1,0 +1,8 @@
+torch
+transformers
+pillow
+requests
+torchvision
+matplotlib
+kagglehub
+streamlit
